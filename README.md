@@ -1,4 +1,5 @@
-🍕 Pizza Sales Analysis Dashboard (SQL + Power BI)
+🍕 Pizza Sales Analysis Dashboard (SQL + Power BI)<img width="751" height="454" alt="Screenshot 2026-02-15 161122" src="https://github.com/user-attachments/assets/9639c487-557f-4d3b-850e-7b9924c99444" />
+
 📊 Project Overview
 
 This project analyzes pizza sales data using SQL for data extraction & analysis and Power BI for interactive dashboard visualization.
